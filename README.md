@@ -7,10 +7,6 @@ Welcome to my personal portfolio! This project showcases my skills and experienc
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
